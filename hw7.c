@@ -29,7 +29,7 @@ int main()
     while (1)
     {
         dice = 1;
-        printf("\nEnter Rock(r), Paper(p) or Scissor(r): ");
+        printf("\nEnter Rock(r), Paper(p) or Scissor(s): ");
         pthread_t thread1, thread2;
         pthread_create(&thread1, NULL, Rat1, NULL);
         pthread_create(&thread2, NULL, Rat2, NULL);
@@ -42,8 +42,8 @@ int main()
         if (dice < 0)
             play = 's';
         scanf(" %c", &opp);
-        printf("You played %c\n", opp);
-        printf("Computer played %c\n", play);
+        printf("You played: %c\n", opp);
+        printf("Computer played: %c\n", play);
         switch (opp)
         {
         case 'r':
