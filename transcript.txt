@@ -1,0 +1,80 @@
+Enter Rock(r), Paper(p) or Scissor(s): r
+You played: r
+Computer played: r
+It's a draw.
+Enter Rock(r), Paper(p) or Scissor(s): p
+You played: p
+Computer played: s
+Computer won.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: s
+It's a draw.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: r
+Computer won.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: p
+You won.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: p
+You won.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: r
+Computer won.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: r
+Computer won.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: r
+Computer won.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: r
+Computer won.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: s
+It's a draw.
+Enter Rock(r), Paper(p) or Scissor(s): p
+You played: p
+Computer played: p
+It's a draw.
+Enter Rock(r), Paper(p) or Scissor(s): r
+You played: r
+Computer played: r
+It's a draw.
+Enter Rock(r), Paper(p) or Scissor(s): r
+You played: r
+Computer played: r
+It's a draw.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: r
+Computer won.
+Enter Rock(r), Paper(p) or Scissor(s): p
+You played: p
+Computer played: r
+You won.
+Enter Rock(r), Paper(p) or Scissor(s): p
+You played: p
+Computer played: p
+It's a draw.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: r
+Computer won.
+Enter Rock(r), Paper(p) or Scissor(s): r
+You played: r
+Computer played: s
+You won.
+Enter Rock(r), Paper(p) or Scissor(s): s
+You played: s
+Computer played: r
+Computer won.
