@@ -6,15 +6,6 @@
 * The program should then repeat until an end condition is met: the user enters a blank line, the input reaches `EOF`, or the program is halted with `ctrl-c` or `ctrl-d`.
 * The choice of rock, paper, and scissors should emerge from race condition(s) between threads.
 
-## Requirements
-* The program should be written in C.
-* The choice of rock, paper, and scissors should emerge from race condition(s) between threads.
-   * You may not use random number generators.
-   * You may use any form of explicit multithreading, but I highly recommend [pthreads](https://www.tutorialspoint.com/multithreading-in-c) are the simplest way to create threads.
-   * Your program must create at least two threads, and should have a race condition between those threads.
-   * You do not have to equally weight all three options. All three behaviors should be observed in most 20-round games.
-   * If you have a hard time getting the race condition to manifest, consider putting it inside a loop.
-
 
 ## Explanation
 * The race condition is in line 12 and 22 where where both threads are accessing and modifying the dice variable simultaneously. The outcome depends on which thread gets to access the dice variable first. 
